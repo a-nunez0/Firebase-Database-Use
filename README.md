@@ -1,8 +1,8 @@
 # Overview
 
-For this cloud database assignment I decided to use firebase and store some kind of data from a user.
+For this cloud database assignment I decided to use firebase to store some kind of data from a user.
 
-To get the data from the user I decided to make a small ap using react but it's also connected with firebase that way their data goes straight to the firebase cloud.
+To get the data from the user I decided to make a small app using react but it's also connected with firebase that way their data goes straight to the firebase cloud.
 
 The purpose of writting this react app was to learn how to use firebase, their useful applications, and how to store data in a cloud.
 
