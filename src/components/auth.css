@@ -1,0 +1,22 @@
+
+.register, .sign {
+    text-align: center;
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background-color: #00ffff;
+}
+
+.register, .sign {
+    text-align: left;
+    padding: 0.25rem 0;
+}
+
+.buttton {
+    border: none;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
